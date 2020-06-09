@@ -1,0 +1,9 @@
+version: '3.3'
+services:
+  api-gateway:
+    build: .
+    environment:
+      ROUTES_FILE_LOCATION: './routes'
+    ports:
+      - "9002:9002"
+
