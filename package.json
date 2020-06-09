@@ -1,7 +1,6 @@
 {
-  "name": "lambda-api-gateway",
+  "name": "@arheio/lambda-api-gateway",
   "version": "1.0.0",
-  "description": "",
   "main": "api-gateway.js",
   "dependencies": {
     "axios": "^0.19.2",
@@ -16,5 +15,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
